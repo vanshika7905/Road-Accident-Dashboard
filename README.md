@@ -1,5 +1,4 @@
-Road Accident Analysis using Excel
-🚗 Road Accident Analysis Dashboard🛣️
+🚗 Road Accident Analysis Dashboard 🛣️
 
 An interactive Excel dashboard that transforms raw accident data into meaningful insights. This project analyzes how vehicle type, road conditions, weather patterns, light conditions, and regional factors contribute to road casualties. It includes dynamic slicers, KPIs, and trend visuals to help understand accident behavior across different dimensions.
 
